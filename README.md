@@ -1,4 +1,4 @@
-# Hi there, I'm Flakeszvy!
+# Hi there, I'm NaaNeini!
 I'm a 16 year old developer from Germany. I love making graphical applications libraries using Rust and OpenGl or making usefull web apps to help me with various things.
 
 ### Languages and other stuff i use
@@ -15,6 +15,6 @@ I'm a 16 year old developer from Germany. I love making graphical applications l
 
 ### Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flakeszvy&layout=compact&bg_color=30,500070,003080&border_color=000000&text_color=d0d0d0&title_color=ffffff&border_radius=4&card_width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naaneini&layout=compact&bg_color=30,500070,003080&border_color=000000&text_color=d0d0d0&title_color=ffffff&border_radius=4&card_width=400)
 
 <img src="cat.gif" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" /> ⇦ Er heisst Atze
