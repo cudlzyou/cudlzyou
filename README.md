@@ -1,4 +1,4 @@
-# Hi there, I'm NaaNeini!
+# Hi there, I'm Unidreow!
 I'm a 17 year old developer from Germany. I love making graphical applications libraries using Rust and OpenGl or making usefull web apps to help me with various things.
 
 ### Languages and other stuff i use
